@@ -94,6 +94,7 @@ function handleCardClick(e) {
               }, 500);
 
       console.log("you just clicked", e.target);
+    
         }
     }
 }
